@@ -1,4 +1,4 @@
-package com.algorithms.sumarray.DivideAndConquer;
+package com.algorithms.DivideAndConquer;
 
 /**
  * @author Hien

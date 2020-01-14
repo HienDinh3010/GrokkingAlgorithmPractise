@@ -3,6 +3,13 @@ package com.algorithms.selectionsort;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.algorithms.common.Artist;
+
+/**
+ * @author hien
+ * Order Artist list from the most view/listen to the lowest view/listen.
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
